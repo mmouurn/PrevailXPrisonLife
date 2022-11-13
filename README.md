@@ -1,1 +1,3 @@
 # PrevailXPrisonLife
+
+Read the license.
